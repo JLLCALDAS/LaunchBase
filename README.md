@@ -14,3 +14,10 @@ RockeatSeat - LaunchBase 2020
     --> Criar um programa para ler um array de usuarios e mostrar cada usuario e suas techs.
     --> Criar um programa para buscar em um array de usuarios quais utilizava determinada tecnologia.
     --> Criar um programa para somar as despesas e as receitas de um array de clientes e listar o saldo de cada um indicando se o saldo era positivo ou negativo.
+
+# --> Desafio - 04
+    --> Criar um programa de aplicações bancárias com um objeto "user" com um array de "transactions[]" que atraves de uma função iria inserindo transactions de credit e debit dentro do array.
+    -->Gerar os seguintes relatórios:
+      ---> Através da função "getHigherTransactionByType" gerar o valor do maior debit e do maior credit;
+      ---> Através da função "getAverageTransactionValue" calcular o valor médio das transactions efetuadas independente do tipo;
+      ---> Através da função "getTransactionsCount" calcular a quantidade de cada tipo de transactions efetuada para o user;
